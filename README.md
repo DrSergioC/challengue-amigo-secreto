@@ -13,26 +13,6 @@ Este es un proyecto web simple donde los usuarios pueden agregar nombres a una l
 - JavaScript
 
 ## 📸 Capturas de pantalla
-(Agrega aquí imágenes del proyecto si lo deseas)
 
-## 📂 Instalación y uso
-1. Clona este repositorio:
-   ```sh
-   git clone https://github.com/usuario/sorteo-amigos.git
-   ```
-2. Navega a la carpeta del proyecto:
-   ```sh
-   cd sorteo-amigos
-   ```
-3. Abre el archivo `index.html` en un navegador web.
-
-## 🌐 Publicación con GitHub Pages
-Si deseas ver el proyecto en línea, puedes activarlo en GitHub Pages siguiendo estos pasos:
-1. Ve a la pestaña **Settings** en tu repositorio de GitHub.
-2. Desplázate hasta la sección **Pages**.
-3. En la opción **Branch**, selecciona `main` y guarda.
-4. Después de unos minutos, tu proyecto estará disponible en:
-   ```
-   https://usuario.github.io/sorteo-amigos/
-   ```
+![image](https://github.com/user-attachments/assets/5a4f1aca-8d06-4a02-af10-53f06680a26a)
 
