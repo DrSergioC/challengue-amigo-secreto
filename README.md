@@ -16,3 +16,9 @@ Este es un proyecto web simple donde los usuarios pueden agregar nombres a una l
 
 ![image](https://github.com/user-attachments/assets/5a4f1aca-8d06-4a02-af10-53f06680a26a)
 
+![image](https://github.com/user-attachments/assets/f95ac3d8-38ca-454d-85b5-54d22ad09fef)
+
+
+![image](https://github.com/user-attachments/assets/a5b0c0de-dded-431d-890e-efc31e48f8b2)
+
+
